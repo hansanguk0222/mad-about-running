@@ -59,6 +59,9 @@ dependencies:
   sass:
     specifier: ^1.69.7
     version: 1.70.0
+  strava_api_v3:
+    specifier: '@hansanguk0222/strava_api_v3.git'
+    version: link:@hansanguk0222/strava_api_v3.git
   tailwindcss:
     specifier: 3.3.2
     version: 3.3.2(ts-node@10.9.2)

@@ -29,7 +29,8 @@
     "sass": "^1.69.7",
     "tailwindcss": "3.3.2",
     "ts-pattern": "^5.0.6",
-    "ts-reset": "^0.0.1"
+    "ts-reset": "^0.0.1",
+    "strava_api_v3": "@hansanguk0222/strava_api_v3.git"
   },
   "devDependencies": {
     "typescript": "^5",
