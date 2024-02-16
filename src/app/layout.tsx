@@ -55,7 +55,9 @@ export default function RootLayout({
             </ul>
           </nav>
         </div>
-        {children}
+        <main className="flex w-full min-h-screen flex-col items-center justify-between">
+          {children}
+        </main>
       </body>
     </html>
   );
