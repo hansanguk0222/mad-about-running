@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${inter.className} flex h-full bg-[#fff]`}>
-        <div className="border-r-[1px] border-r-[#d3d3d3] w-[224px] flex-none">
+        <div className="border-r-[1px] border-r-[#d3d3d3] w-[224px] flex-none bg-slate-300">
           <h1 className="text-center py-2">
             <Link href="/">
               <span className="font-bold">Mad About Running</span>

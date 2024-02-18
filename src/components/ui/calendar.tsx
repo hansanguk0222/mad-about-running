@@ -13,8 +13,7 @@ import {
 } from '@/components/ui/sheet';
 
 import { cn } from '@/lib/utils';
-import { Button, buttonVariants } from '@/components/ui/button';
-import { format } from 'date-fns';
+import { buttonVariants } from '@/components/ui/button';
 
 export type CalendarProps = React.ComponentProps<typeof DayPicker>;
 
